@@ -1,5 +1,5 @@
-# OSS
-Online Shopping Software
+
+
 
 
 //Prime & non prime Numbers from 1 to 100
