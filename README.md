@@ -2,6 +2,7 @@
 
 //Edited by Renuka
 //Edited By Akshay
+// Edited BY Rajesh
 //Prime & non prime Numbers from 1 to 100
 
 public class ass6{
