@@ -1,7 +1,7 @@
 
 
 
-
+//Edited By Akshay
 //Prime & non prime Numbers from 1 to 100
 
 public class ass6{
