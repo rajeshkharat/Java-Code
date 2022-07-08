@@ -1,6 +1,6 @@
 //Edited By Rishik Bari
 
-
+//Edited by Renuka
 //Edited By Akshay
 //Prime & non prime Numbers from 1 to 100
 
